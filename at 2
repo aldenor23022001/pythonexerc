@@ -1,0 +1,14 @@
+#Crie um programa que solicite ao usuário um número e imprima todos os números de 1 até esse número usando um loop while.
+from time import sleep
+num = int(input('digite um número: '))
+contador = 0
+while num != contador:
+    contador +=1
+    sleep (1)
+    print(contador)
+sleep (1)
+print ('fim. ')
+
+
+
+

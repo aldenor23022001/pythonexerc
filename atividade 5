@@ -1,0 +1,7 @@
+# Escreva um programa que solicite ao usuário uma senha e continue pedindo até que a senha digitada seja igual a "senha123".
+
+senha = str(input('digite a senha: '))
+while 'senha123'!= senha:
+    senha = str(input('senha negada, digite novamente: '))
+    
+print('aserto')
