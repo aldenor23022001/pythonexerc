@@ -1,0 +1,2 @@
+# pythonexerc
+exercicio de python
